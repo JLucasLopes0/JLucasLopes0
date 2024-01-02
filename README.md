@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João Lucas Lopes 👋</h1> 
+<h1 align="center">Hi, I'm João Lucas 👋</h1> 
 
 
 <!--
