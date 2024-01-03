@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm João Lucas 👋</h1> 
 
+Welcome to my profile! I'm a Back End Developer looking for my first professional opportunity in the area.
+
 <h2 align="left">My Skill Set</h2>
 <h3 align="left">Back End</h3>
 <!--JAVA-->
