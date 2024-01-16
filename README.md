@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm a Back End Developer looking for my first professional opportunity in the area.
 
-Bem-vindo ao meu perfil! Sou um Desenvolvedor Back End em busca da primeira oportunidade profissional na área.
+[PT-BR] Bem-vindo ao meu perfil! Sou um Desenvolvedor Back End em busca da primeira oportunidade profissional na área.
 
 <h2 align="left">My Skill Set</h2>
 <h3 align="left">Back End</h3>
