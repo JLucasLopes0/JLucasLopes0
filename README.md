@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm João Lucas 👋</h1> 
 
-Welcome to my profile! I'm a Back End Developer looking for my first professional opportunity in the area.
+Welcome to my profile! I'm a Backend Developer passionate about the area. I really enjoy studying and learning new technologies and resources, and I'm constantly expanding my knowledge in Backend Development. Parallel to this, I am studying Frontend Development with the aim of becoming a Fullstack Developer.
+Furthermore, I currently work at a company in the payroll credit sector as IT Support and Web Developer.
 
-[PT-BR] Bem-vindo ao meu perfil! Sou um Desenvolvedor Back End em busca da primeira oportunidade profissional na área.
+[PT-BR] Bem-vindo ao meu perfil! Sou um Desenvolvedor Back End apaixonado pela área. Gosto muito de aprender novas tecnologias e recursos, e estou constantemente ampliando os meus conhecimentos em Desenvolvimento Backend. Paralelo a isso, estou estudando Desenvolvimento Frontend com o objetivo de me tornar um Desenvolvedor Fullstack.
+Além disso, atualmente trabalho em uma empresa do ramo de crédito consignado como Suporte de TI e Desenvolvedor Web.
 
 <h2 align="left">My Skill Set</h2>
 <h3 align="left">Back End</h3>
