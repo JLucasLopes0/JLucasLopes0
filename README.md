@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm João Lucas 👋</h1> 
 
-Welcome to my profile! I'm a Backend Developer passionate about the area. I really enjoy studying and learning new technologies and resources, and I'm constantly expanding my knowledge in Backend Development. Parallel to this, I am studying Frontend Development with the aim of becoming a Fullstack Developer.
-Furthermore, I currently work at a company in the payroll credit sector as IT Support and Web Developer.
+Welcome to my profile! I am a Backend Developer passionate about the area. I really enjoy studying and learning new technologies and resources, and I am constantly expanding my knowledge in Backend Development. Parallel to this, I am studying Frontend Development with the aim of becoming a Fullstack Developer. I currently work at a company in the payroll credit sector as IT Support and Web Developer.
 
-[PT-BR] Bem-vindo ao meu perfil! Sou um Desenvolvedor Back End apaixonado pela área. Gosto muito de aprender novas tecnologias e recursos, e estou constantemente ampliando os meus conhecimentos em Desenvolvimento Backend. Paralelo a isso, estou estudando Desenvolvimento Frontend com o objetivo de me tornar um Desenvolvedor Fullstack.
-Além disso, atualmente trabalho em uma empresa do ramo de crédito consignado como Suporte de TI e Desenvolvedor Web.
+[PT-BR] Bem-vindo ao meu perfil! Sou um Desenvolvedor Backend apaixonado pela área. Gosto muito de aprender novas tecnologias e recursos, e estou constantemente expandindo os meus conhecimentos em Desenvolvimento Backend. Paralelo a isso, estou estudando Desenvolvimento Frontend com o objetivo de me tornar um Desenvolvedor Fullstack. Atualmente trabalho em uma empresa do ramo de crédito consignado como Suporte de TI e Desenvolvedor Web.
 
 <h2 align="left">My Skill Set</h2>
 <h3 align="left">Back End</h3>
@@ -27,6 +25,8 @@ Além disso, atualmente trabalho em uma empresa do ramo de crédito consignado c
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <!--Javascript-->
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<!--Angular-->
+<a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/271/444/png-transparent-angular-icon-hd-logo.png" alt="Angular" height="50" /></a>
 <h3 align="left">Tools</h3>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/509/PNG/512/Github_icon-icons.com_49946.png" alt="GitHub" height="50" /></a>
