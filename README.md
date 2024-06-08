@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm João Lucas 👋</h1> 
 
-Welcome to my profile! I am a Backend Developer passionate about the area. I really enjoy studying and learning new technologies and resources, and I am constantly expanding my knowledge in Backend Development. Parallel to this, I am studying Frontend Development with the aim of becoming a Fullstack Developer. I currently work at a company in the payroll credit sector as IT Support and Web Developer.
+Welcome to my profile! I am a Backend Developer passionate about the area. I really enjoy studying and learning new technologies and resources, and I am constantly expanding my knowledge in Backend Development. Parallel to this, I am studying Frontend Development with the aim of becoming a Fullstack Developer. I currently work at a company in the payroll credit sector as Web Developer and IT Support.
 
-[PT-BR] Bem-vindo ao meu perfil! Sou um Desenvolvedor Backend apaixonado pela área. Gosto muito de aprender novas tecnologias e recursos, e estou constantemente expandindo os meus conhecimentos em Desenvolvimento Backend. Paralelo a isso, estou estudando Desenvolvimento Frontend com o objetivo de me tornar um Desenvolvedor Fullstack. Atualmente trabalho em uma empresa do ramo de crédito consignado como Suporte de TI e Desenvolvedor Web.
+[PT-BR] Bem-vindo ao meu perfil! Sou um Desenvolvedor Backend apaixonado pela área. Gosto muito de aprender novas tecnologias e recursos, e estou constantemente expandindo os meus conhecimentos em Desenvolvimento Backend. Paralelo a isso, estou estudando Desenvolvimento Frontend com o objetivo de me tornar um Desenvolvedor Fullstack. Atualmente trabalho em uma empresa do ramo de crédito consignado como Desenvolvedor Web e Suporte de TI.
 
 <h2 align="left">My Skill Set</h2>
 <h3 align="left">Back End</h3>
