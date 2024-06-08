@@ -10,8 +10,8 @@ Welcome to my profile! I am a Backend Developer passionate about the area. I rea
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <!--SPRING BOOT-->
 <a href="https://spring.io/projects/spring-boot/" target="_blank"><img style="margin: 10px" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" alt="Spring Boot" height="50" /></a>
-<!--SPRING SECURITY-->
-<a href="https://spring.io/projects/spring-security/" target="_blank"><img style="margin: 10px" src="https://velog.velcdn.com/images/letsdev/post/44b40f1f-4d13-46ea-8ca7-e98541c13a9a/image.png" alt="Spring Security" height="50" /></a>
+<!--SPRING SECURITY
+<a href="https://spring.io/projects/spring-security/" target="_blank"><img style="margin: 10px" src="https://velog.velcdn.com/images/letsdev/post/44b40f1f-4d13-46ea-8ca7-e98541c13a9a/image.png" alt="Spring Security" height="50" /></a>-->
 <!--SQL SERVER-->
 <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"><img style="margin: 10px" src="https://www.webmundi.com/wp-content/uploads/Microsoft-SQL-Server.png" alt="SQL Server" height="50" /></a>
 <!--POSTGRESQL-->
