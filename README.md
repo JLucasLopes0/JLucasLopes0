@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João Lucas 👋</h1> 
+<h1 align="center">Hi, I'm João Lopes 👋</h1> 
 
 Welcome to my profile! I am a Backend Developer passionate about the area. I really enjoy studying and learning new technologies and resources, and I am constantly expanding my knowledge in Backend Development. Parallel to this, I am studying Frontend Development with the aim of becoming a Fullstack Developer.
 
