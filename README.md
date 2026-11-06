@@ -42,9 +42,15 @@ I don't just prompt AI, I run it. Custom skills turn agents into a pipeline that
 <!--ANGULAR-->
 <a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" height="50" /></a>
 
+<h3 align="left">Cloud & DevOps</h3>
+<!--AWS-->
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" /></a>
+<!--DOCKER-->
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" /></a>
+<!--GCP (opcional)-->
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="50" /></a>
+
 <h3 align="left">Tools</h3>
-<!--CLAUDE CODE-->
-<a href="https://claude.com/product/claude-code" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" title="Claude Code" height="50" /></a>
 <!--GIT-->
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>
 <!--GITHUB-->
