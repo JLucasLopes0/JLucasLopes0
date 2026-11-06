@@ -4,7 +4,7 @@
 
 <h2 align="left">Agentic Engineering</h2>
 
-I don't just prompt AI, I run it. Custom skills turn agents into a pipeline that plans, builds and tests. I make the calls and sign off on everything that ships.
+I don't just prompt AI, I run it. Custom skills turn agents into a pipeline that plans, builds and tests. I make the decisions and validate the results.
 
 <h2 align="left">My Skill Set</h2>
 
@@ -25,8 +25,6 @@ I don't just prompt AI, I run it. Custom skills turn agents into a pipeline that
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="50" /></a>
 <!--POSTGRESQL-->
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>
-<!--SQL SERVER-->
-<a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" height="50" /></a>
 
 <h3 align="left">Front End</h3>
 <!--HTML-->
@@ -65,6 +63,7 @@ I don't just prompt AI, I run it. Custom skills turn agents into a pipeline that
 <a href="https://www.postman.com/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50" /></a>
 <!--HOPPSCOTCH-->
 <a href="https://hoppscotch.io/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.simpleicons.org/hoppscotch/10B981" alt="Hoppscotch" height="50" /></a>
+
 <h2 align="left">Connect with me</h2>
 <a href="https://www.linkedin.com/in/jlucaslopes/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="LinkedIn" height="40" /></a>
 <a href="mailto:jlucaslopes0@gmail.com" target="_blank"> <img style="margin: 12px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="40" /></a>
