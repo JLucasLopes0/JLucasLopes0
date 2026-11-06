@@ -52,26 +52,19 @@ I don't just prompt AI, I run it. Custom skills turn agents into a pipeline that
 
 <h3 align="left">Tools</h3>
 <!--GIT-->
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>
 <!--GITHUB-->
-<a href="https://github.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img style="margin: 10px" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="50" />
-  </picture>
-</a>
+<a href="https://github.com/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img align="absmiddle" style="margin: 0 2px" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="44" /></picture></a>
 <!--BITBUCKET-->
-<a href="https://bitbucket.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" height="50" /></a>
+<a href="https://bitbucket.org/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" height="50" /></a>
 <!--VS CODE-->
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" /></a>
 <!--VISUAL STUDIO-->
-<a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" /></a>
+<a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" /></a>
 <!--POSTMAN-->
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50" /></a>
 <!--HOPPSCOTCH-->
-<a href="https://hoppscotch.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/hoppscotch/10B981" alt="Hoppscotch" height="50" /></a>
-
+<a href="https://hoppscotch.io/" target="_blank"><img align="absmiddle" style="margin: 0 4px" src="https://cdn.simpleicons.org/hoppscotch/10B981" alt="Hoppscotch" height="50" /></a>
 <h2 align="left">Connect with me</h2>
 <a href="https://www.linkedin.com/in/jlucaslopes/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="LinkedIn" height="40" /></a>
 <a href="mailto:jlucaslopes0@gmail.com" target="_blank"> <img style="margin: 12px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="40" /></a>
