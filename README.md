@@ -1,4 +1,10 @@
 <h1 align="center">Hi, I'm João Lopes 🖐️</h1>
+<p align="center"><b>Full-stack developer · Agentic engineering</b></p>
+<p align="center"><i>I delegate to AI agents. I own what ships.</i></p>
+
+<h2 align="left">Agentic Engineering</h2>
+
+I don't just prompt AI, I run it. Custom skills turn agents into a pipeline that plans, builds and tests. I make the calls and sign off on everything that ships.
 
 <h2 align="left">My Skill Set</h2>
 
@@ -36,7 +42,9 @@
 <!--ANGULAR-->
 <a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" height="50" /></a>
 
-<h3 align="left">Dev Tools</h3>
+<h3 align="left">Tools</h3>
+<!--CLAUDE CODE-->
+<a href="https://claude.com/product/claude-code" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" title="Claude Code" height="50" /></a>
 <!--GIT-->
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>
 <!--GITHUB-->
@@ -48,7 +56,7 @@
   </picture>
 </a>
 <!--BITBUCKET-->
-<a href="https://bitbucket.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" height="50" /></a>
+<a href="https://bitbucket.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" height="50" /></a>
 <!--VS CODE-->
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" /></a>
 <!--VISUAL STUDIO-->
