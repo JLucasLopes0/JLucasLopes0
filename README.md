@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm João Lopes 👋</h1> 
-
-Welcome to my profile! I'm a Full Stack Developer passionate about the field. I've been working with software development since 2024 and I like to keep up with the latest technology news.
+<h1 align="center">Hi, I'm João Lopes 🖐️</h1> 
 
 <h2 align="left">My Skill Set</h2>
 <h3 align="left">Back End</h3>
